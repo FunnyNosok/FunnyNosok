@@ -46,7 +46,7 @@
   <summary><b>📈 Contribution Streak</b></summary>
   <br />
   <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=FunnyNosok&theme=radical" alt="GitHub Streak" />
   </div>
 </details>
 
