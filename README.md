@@ -1,12 +1,9 @@
-<!-- Centered Header and Banner -->
+
 <div align="center">
 
-  <!-- Optional: Repository banner or a high-tech GIF -->
   <img src="assets/banner.gif" alt="Banner" width="100%" />
 
   # Hi there, I'm Funny 👋
-  
-  <!-- Smooth typing animation for core focus areas -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A97BF6&center=true&vCenter=true&width=500&lines=Backend+Engineer;Network+Solutions;Open-Source+Enthusiast" alt="Typing SVG" />
 
 </div>
@@ -25,13 +22,10 @@
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <!-- Languages -->
   <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  
-  <!-- DevOps & Infrastructure -->
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -42,11 +36,8 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <!-- Core Stats (Make sure to replace YOUR_USERNAME) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Funny_OFIC_FGA&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" height="192px" />
-  
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Funny_OFIC_FGA&layout=compact&theme=radical&langs_count=6" alt="Top Languages" height="192px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FunnyNosok&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" height="192px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FunnyNosok&layout=compact&theme=radical&langs_count=6" alt="Top Languages" height="192px" />
 </div>
 
 <br />
