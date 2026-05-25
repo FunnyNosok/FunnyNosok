@@ -4,7 +4,7 @@
   <!-- Optional: Repository banner or a high-tech GIF -->
   <img src="assets/banner.gif" alt="Banner" width="100%" />
 
-  # Hi there, I'm [Your Name / Alias] 👋
+  # Hi there, I'm Funny 👋
   
   <!-- Smooth typing animation for core focus areas -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A97BF6&center=true&vCenter=true&width=500&lines=Backend+Engineer;Network+Solutions;Open-Source+Enthusiast" alt="Typing SVG" />
