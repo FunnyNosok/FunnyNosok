@@ -33,6 +33,12 @@
 
 ---
 
+### 🕋 My 3D Contribution Graph
+
+<div align="center">
+  <img src="profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" width="100%" />
+</div>
+
 ### 📊 GitHub Analytics
 
 <div align="center">
@@ -41,11 +47,7 @@
 </div>
 
 <br />
-### 🕋 My 3D Contribution Graph
 
-<div align="center">
-  <img src="profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" width="100%" />
-</div>
 <details>
   <summary><b>📈 Contribution Streak</b></summary>
   <br />
