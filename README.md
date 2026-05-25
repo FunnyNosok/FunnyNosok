@@ -36,8 +36,8 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FunnyNosok&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" height="192px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FunnyNosok&layout=compact&theme=radical&langs_count=6" alt="Top Languages" height="192px" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=FunnyNosok&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" height="192px" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FunnyNosok&layout=compact&theme=radical&langs_count=6" alt="Top Languages" height="192px" />
 </div>
 
 <br />
@@ -46,7 +46,7 @@
   <summary><b>📈 Contribution Streak</b></summary>
   <br />
   <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=FunnyNosok&theme=radical" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.vercel.app/?user=FunnyNosok&theme=radical" alt="GitHub Streak" />
   </div>
 </details>
 
