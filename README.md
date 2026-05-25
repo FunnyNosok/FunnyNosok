@@ -43,10 +43,10 @@
 
 <div align="center">
   <!-- Core Stats (Make sure to replace YOUR_USERNAME) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=FunnyNosok&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" height="192px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Funny_OFIC_FGA&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" height="192px" />
   
   <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FunnyNosok&layout=compact&theme=radical&langs_count=6" alt="Top Languages" height="192px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Funny_OFIC_FGA&layout=compact&theme=radical&langs_count=6" alt="Top Languages" height="192px" />
 </div>
 
 <br />
