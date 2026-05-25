@@ -33,13 +33,13 @@
 
 ---
 
-### 🕋 My 3D Contribution Graph
+### Contribution Graph
 
 <div align="center">
   <img src="profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" width="100%" />
 </div>
 
-### 📊 GitHub Analytics
+
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=FunnyNosok&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" height="192px" />
