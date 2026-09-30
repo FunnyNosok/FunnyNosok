@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 470" width="600" height="470">
+<defs>
+  <linearGradient id="brand" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#e4e4e7"/><stop offset=".55" stop-color="#a1a1aa"/><stop offset="1" stop-color="#71717a"/>
+  </linearGradient>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#e4e4e7" stop-opacity=".55"/><stop offset=".5" stop-color="#26262a"/><stop offset="1" stop-color="#a1a1aa" stop-opacity=".45"/>
+  </linearGradient>
+  <radialGradient id="g" cx=".5" cy=".42" r=".6"><stop offset="0" stop-color="#3f3f46" stop-opacity=".5"/><stop offset="1" stop-color="#3f3f46" stop-opacity="0"/></radialGradient>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.3" fill="#e4e4e7" opacity=".22"/></pattern>
+</defs>
+<style>
+  @keyframes spin { to { transform:rotate(360deg) } }
+  @keyframes pulse { 0%,100% { transform:scale(1); opacity:.9 } 50% { transform:scale(1.06); opacity:1 } }
+</style>
+<rect width="600" height="470" rx="18" fill="#111112"/>
+<rect width="600" height="470" rx="18" fill="url(#dots)"/>
+<rect width="600" height="470" rx="18" fill="url(#g)"/>
+<g transform="translate(300,178)">
+  <circle r="74" fill="none" stroke="url(#brand)" stroke-width="2" stroke-dasharray="6 10" style="animation:spin 18s linear infinite"/>
+  <g style="animation:pulse 2.4s ease-in-out infinite">
+    <circle r="50" fill="#e4e4e7" fill-opacity=".14" stroke="#e4e4e7" stroke-opacity=".6"/>
+    <path d="M-16 0h32M0 -16v32" stroke="#f4f4f5" stroke-width="5" stroke-linecap="round"/>
+  </g>
+</g>
+<text x="300" y="316" text-anchor="middle" font-family="'Segoe UI','Inter',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="900" fill="#f4f4f5">Нужен сайт?</text>
+<text x="300" y="350" text-anchor="middle" font-family="'Segoe UI','Inter',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="17" fill="#8b8b92">Лендинг, визитка или сайт для бизнеса —</text>
+<text x="300" y="374" text-anchor="middle" font-family="'Segoe UI','Inter',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="17" fill="#8b8b92">от идеи до запуска.</text>
+<rect x="190" y="400" width="220" height="44" rx="22" fill="url(#brand)"/>
+<text x="300" y="428" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'Courier New',monospace" font-size="15" font-weight="700" fill="#0b0b0c">написать в TG →</text>
+<rect x=".5" y=".5" width="599" height="469" rx="18" fill="none" stroke="url(#edge)"/>
+</svg>

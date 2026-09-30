@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 130" width="1200" height="130">
+<defs>
+  <linearGradient id="brand" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#e4e4e7"/><stop offset=".55" stop-color="#a1a1aa"/><stop offset="1" stop-color="#71717a"/>
+  </linearGradient>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#e4e4e7" stop-opacity=".55"/><stop offset=".5" stop-color="#26262a"/><stop offset="1" stop-color="#a1a1aa" stop-opacity=".45"/>
+  </linearGradient>
+  <linearGradient id="ln" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#e4e4e7" stop-opacity="0"/><stop offset=".5" stop-color="#e4e4e7"/><stop offset="1" stop-color="#a1a1aa" stop-opacity="0"/></linearGradient>
+</defs>
+<style>@keyframes w { 0%,100% { opacity:.35 } 50% { opacity:1 } }</style>
+<rect x="100" y="30" width="1000" height="1.5" fill="url(#ln)" style="animation:w 4s ease-in-out infinite"/>
+<text x="600" y="78" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'Courier New',monospace" font-size="16" fill="#8b8b92">compiled with <tspan fill="#71717a">♥</tspan>, coffee &amp; bytecode <tspan fill="#4b4b52">·</tspan> <tspan fill="#e4e4e7">FunnyNosok</tspan> <tspan fill="#4b4b52">·</tspan> 2026</text>
+<text x="600" y="106" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'Courier New',monospace" font-size="12" fill="#4b4b52">0xCAFEBABE — EOF</text>
+</svg>

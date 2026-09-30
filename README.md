@@ -1,70 +1,49 @@
-
 <div align="center">
 
-  <img src="assets/banner.gif" alt="Banner" width="100%" />
+<img src="assets/header.svg" width="100%" alt="FunnyNosok — JVM security · Web · Telegram bots · AI" />
 
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A97BF6&center=true&vCenter=true&width=500&lines=Backend+Engineer;Network+Solutions;Open-Source+Enthusiast" alt="Typing SVG" />
+<br/>
+
+<a href="https://t.me/Funnyqe"><img src="assets/btn-tg.svg" width="32%" alt="Telegram @Funnyqe" /></a> <a href="mailto:danilimatov4@gmail.com"><img src="assets/btn-mail.svg" width="32%" alt="Email" /></a> <a href="https://funny-iota-seven.vercel.app"><img src="assets/btn-web.svg" width="32%" alt="Сайт-визитка" /></a>
+
+<br/>
+
+<img src="assets/sec-01.svg" width="100%" alt="01 Обо мне" />
+<img src="assets/about.svg" width="100%" alt="whoami: fullstack & low-level разработчик — защита JVM, сайты под ключ, Telegram-боты и AI" />
+
+<br/><br/>
+
+<img src="assets/sec-02.svg" width="100%" alt="02 Главный проект" />
+<a href="https://github.com/FunnyNosok/FunnyGuard"><img src="assets/funnyguard.svg" width="100%" alt="FunnyGuard — шифрование байткода на уровне JVM" /></a>
+
+<br/><br/>
+
+<img src="assets/sec-03.svg" width="100%" alt="03 Сайты" />
+<a href="https://zabeymsy-landing.vercel.app"><img src="assets/site-zabeymsy.svg" width="49%" alt="Забьёмся — тату-студия" /></a>
+<a href="https://mariya-nails-nu.vercel.app"><img src="assets/site-mariya.svg" width="49%" alt="Мария Nails" /></a>
+<a href="https://onlytatoo.vercel.app"><img src="assets/site-onlytatoo.svg" width="49%" alt="Only Tattoo" /></a>
+<a href="https://hostel-ekb.vercel.app"><img src="assets/site-hostel.svg" width="49%" alt="Хостелы ЕКБ" /></a>
+<a href="https://hostel-sites-demo.vercel.app"><img src="assets/site-hosteldemo.svg" width="49%" alt="Hostel Concepts" /></a>
+<a href="https://t.me/Funnyqe"><img src="assets/site-cta.svg" width="49%" alt="Нужен сайт? Напиши в Telegram" /></a>
+
+<br/><br/>
+
+<img src="assets/sec-04.svg" width="100%" alt="04 Лаборатория" />
+<a href="https://github.com/FunnyNosok/TGWSANDROID"><img src="assets/lab-tgws.svg" width="49%" alt="TGWSANDROID" /></a>
+<a href="https://github.com/FunnyNosok/GptTgBot"><img src="assets/lab-gpt.svg" width="49%" alt="GptTgBot" /></a>
+<a href="https://github.com/FunnyNosok/Orion_Ai"><img src="assets/lab-orion.svg" width="49%" alt="Orion AI" /></a>
+<a href="https://github.com/FunnyNosok/Shooter"><img src="assets/lab-shooter.svg" width="49%" alt="Shooter" /></a>
+
+<br/><br/>
+
+<img src="assets/sec-05.svg" width="100%" alt="05 Стек" />
+<img src="assets/stack.svg" width="100%" alt="Java, Kotlin, C++, C, Rust, OpenJDK, TypeScript, JavaScript, HTML/CSS, Node.js, Vercel, Python, Telegram API, LLM APIs, Git" />
+
+<br/><br/>
+
+<img src="assets/sec-06.svg" width="100%" alt="06 Активность" />
+<img src="profile-3d-contrib/profile-mono.svg" width="100%" alt="3D contribution graph" />
+
+<img src="assets/footer.svg" width="100%" alt="" />
 
 </div>
-
----
-
-### 💻 About Me
-
-- 🚀 Focused on building high-performance backend systems, custom network protocols, and automation tools.
-- 🛠️ Daily stack: **Rust, Go, Python, and Node.js**.
-- 🤖 Deeply interested in Edge AI infrastructure, LLM integrations, and system-level utilities.
-- ⚡ Fun fact: I prefer terminal-centric workflows and robust, low-latency architectures.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
----
-
-### Contribution Graph
-
-<div align="center">
-  <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="100%" />
-</div>
-
-
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=FunnyNosok&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" height="192px" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FunnyNosok&layout=compact&theme=radical&langs_count=6" alt="Top Languages" height="192px" />
-</div>
-
-<br />
-
-<details>
-  <summary><b>📈 Contribution Streak</b></summary>
-  <br />
-  <div align="center">
-    <img src="https://github-readme-streak-stats.vercel.app/?user=FunnyNosok&theme=radical" alt="GitHub Streak" />
-  </div>
-</details>
-
----
-
-### 🤝 Connect with me
-
-<p align="left">
-  <a href="https://t.me/Funnyqe" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="mailto:danilimatov4@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>

@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 480" width="1200" height="480">
+<defs>
+  <linearGradient id="brand" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#e4e4e7"/><stop offset=".55" stop-color="#a1a1aa"/><stop offset="1" stop-color="#71717a"/>
+  </linearGradient>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#e4e4e7" stop-opacity=".55"/><stop offset=".5" stop-color="#26262a"/><stop offset="1" stop-color="#a1a1aa" stop-opacity=".45"/>
+  </linearGradient>
+  <radialGradient id="gl" cx="0" cy="0" r=".8"><stop offset="0" stop-color="#3f3f46" stop-opacity=".35"/><stop offset="1" stop-color="#3f3f46" stop-opacity="0"/></radialGradient>
+  <radialGradient id="gl2" cx="1" cy="1" r=".7"><stop offset="0" stop-color="#a1a1aa" stop-opacity=".18"/><stop offset="1" stop-color="#a1a1aa" stop-opacity="0"/></radialGradient>
+  <linearGradient id="bar" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#a1a1aa" stop-opacity="0"/><stop offset=".5" stop-color="#a1a1aa" stop-opacity=".5"/><stop offset="1" stop-color="#a1a1aa" stop-opacity="0"/></linearGradient>
+  <clipPath id="panel"><rect x="668" y="96" width="480" height="300" rx="14"/></clipPath>
+</defs>
+<style>
+  .p,.c,.off { font:500 15px 'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'Courier New',monospace; letter-spacing:.5px }
+  .p { fill:#e4e4e7; animation:p 6s linear infinite }
+  .c { fill:#a1a1aa; opacity:0; animation:c 6s linear infinite }
+  .off { fill:#4b4b52 }
+  @keyframes p { 0%,9% { opacity:1 } 11%,84% { opacity:0 } 90%,100% { opacity:1 } }
+  @keyframes c { 0%,9% { opacity:0 } 11%,84% { opacity:1 } 90%,100% { opacity:0 } }
+  @keyframes scan { 0%,8% { transform:translateY(-40px); opacity:0 } 10% { opacity:1 } 47% { transform:translateY(234px); opacity:1 } 52%,100% { transform:translateY(234px); opacity:0 } }
+  @keyframes lock { 0%,45% { opacity:.35 } 50%,84% { opacity:1 } 90%,100% { opacity:.35 } }
+  @keyframes shine { from { transform:translateX(-300px) } to { transform:translateX(900px) } }
+</style>
+<rect width="1200" height="480" rx="22" fill="#111112"/>
+<rect width="1200" height="480" rx="22" fill="url(#gl)"/>
+<rect width="1200" height="480" rx="22" fill="url(#gl2)"/>
+
+<text x="60" y="84" font-family="'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'Courier New',monospace" font-size="14" font-weight="700" letter-spacing="3" fill="#a1a1aa">★ FEATURED PROJECT</text>
+<text x="56" y="152" font-family="'Segoe UI','Inter',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="64" font-weight="900" fill="url(#brand)">FunnyGuard</text>
+<text font-family="'Segoe UI','Inter',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="19" fill="#8b8b92">
+  <tspan x="60" y="192">Шифрование байткода на уровне JVM.</tspan>
+  <tspan x="60" y="218"><tspan fill="#f4f4f5">Ни одного читаемого класса на диске.</tspan></tspan>
+</text>
+<circle cx="66" cy="246" r="4" fill="#e4e4e7"/><text x="82" y="251" font-family="'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'Courier New',monospace" font-size="15" fill="#f4f4f5">per-class AES-256-GCM</text><circle cx="66" cy="272" r="4" fill="#a1a1aa"/><text x="82" y="277" font-family="'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'Courier New',monospace" font-size="15" fill="#f4f4f5">native string vault</text><circle cx="66" cy="298" r="4" fill="#71717a"/><text x="82" y="303" font-family="'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'Courier New',monospace" font-size="15" fill="#f4f4f5">sealed server-key mode</text><circle cx="66" cy="324" r="4" fill="#d4d4d8"/><text x="82" y="329" font-family="'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'Courier New',monospace" font-size="15" fill="#f4f4f5">runtime hardening</text>
+<rect x="60" y="352" width="70" height="32" rx="16" fill="#e4e4e7" fill-opacity=".1" stroke="#e4e4e7" stroke-opacity=".45"/><text x="95.0" y="373" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'Courier New',monospace" font-size="14" fill="#f4f4f5">Java</text><rect x="140" y="352" width="60" height="32" rx="16" fill="#e4e4e7" fill-opacity=".1" stroke="#e4e4e7" stroke-opacity=".45"/><text x="170.0" y="373" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'Courier New',monospace" font-size="14" fill="#f4f4f5">C++</text><rect x="210" y="352" width="100" height="32" rx="16" fill="#e4e4e7" fill-opacity=".1" stroke="#e4e4e7" stroke-opacity=".45"/><text x="260.0" y="373" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'Courier New',monospace" font-size="14" fill="#f4f4f5">OpenJDK</text><rect x="320" y="352" width="140" height="32" rx="16" fill="#e4e4e7" fill-opacity=".1" stroke="#e4e4e7" stroke-opacity=".45"/><text x="390.0" y="373" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'Courier New',monospace" font-size="14" fill="#f4f4f5">AES-256-GCM</text><rect x="470" y="352" width="60" height="32" rx="16" fill="#e4e4e7" fill-opacity=".1" stroke="#e4e4e7" stroke-opacity=".45"/><text x="500.0" y="373" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'Courier New',monospace" font-size="14" fill="#f4f4f5">JNI</text>
+<text x="60" y="428" font-family="'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'Courier New',monospace" font-size="15" fill="#e4e4e7">github.com/FunnyNosok/FunnyGuard <tspan fill="#a1a1aa">→</tspan></text>
+
+<rect x="668" y="56" width="480" height="340" rx="14" fill="#0c0c0e" stroke="#26262a"/>
+<text x="690" y="84" font-family="'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'Courier New',monospace" font-size="14" fill="#8b8b92">Client.class</text>
+<g transform="translate(1108,68)" style="animation:lock 6s linear infinite">
+  <rect x="0" y="8" width="18" height="14" rx="3" fill="#a1a1aa"/>
+  <path d="M4 8V5a5 5 0 0 1 10 0v3" fill="none" stroke="#a1a1aa" stroke-width="2.4"/>
+</g>
+<text x="1092" y="84" font-family="'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'Courier New',monospace" font-size="12" fill="#a1a1aa" text-anchor="end" style="animation:lock 6s linear infinite">ENCRYPTED</text>
+<line x1="668" y1="98" x2="1148" y2="98" stroke="#26262a"/>
+<g clip-path="url(#panel)">
+  <text x="738" y="150" class="p" style="animation-delay:0.0s">CA FE BA BE 00 00 00 41 00 2F 0A 00</text><text x="738" y="150" class="c" style="animation-delay:0.0s">39 0C 8C 7D 72 47 34 2C D8 10 0F 2F</text><text x="690" y="150" class="off">0000</text><text x="738" y="182" class="p" style="animation-delay:0.3s">07 00 18 09 00 19 00 1A 08 00 1B 0A</text><text x="738" y="182" class="c" style="animation-delay:0.3s">6F 77 0D 65 D6 70 E5 8E 03 51 D8 AE</text><text x="690" y="182" class="off">000C</text><text x="738" y="214" class="p" style="animation-delay:0.6s">00 1C 00 1D 07 00 1E 01 00 06 3C 69</text><text x="738" y="214" class="c" style="animation-delay:0.6s">8E 4F 6E AC 34 2F C2 31 B7 B0 87 16</text><text x="690" y="214" class="off">0018</text><text x="738" y="246" class="p" style="animation-delay:0.9s">6E 69 74 3E 01 00 03 28 29 56 01 00</text><text x="738" y="246" class="c" style="animation-delay:0.9s">EB 3F C1 28 96 B9 62 23 17 74 94 28</text><text x="690" y="246" class="off">0024</text><text x="738" y="278" class="p" style="animation-delay:1.2s">04 43 6F 64 65 01 00 0F 4C 69 6E 65</text><text x="738" y="278" class="c" style="animation-delay:1.2s">77 33 C2 8E E8 BA 53 BD B5 6B 88 24</text><text x="690" y="278" class="off">0030</text><text x="738" y="310" class="p" style="animation-delay:1.5s">4E 75 6D 62 65 72 54 61 62 6C 65 01</text><text x="738" y="310" class="c" style="animation-delay:1.5s">57 7D 53 EC C2 8A 70 A6 1C 75 10 A1</text><text x="690" y="310" class="off">003C</text><text x="738" y="342" class="p" style="animation-delay:1.8s">00 04 6D 61 69 6E 01 00 16 28 5B 4C</text><text x="738" y="342" class="c" style="animation-delay:1.8s">CD 89 21 6C A1 6C FF CA EA 49 87 47</text><text x="690" y="342" class="off">0048</text><text x="738" y="374" class="p" style="animation-delay:2.1s">6A 61 76 61 2F 6C 61 6E 67 2F 53 74</text><text x="738" y="374" class="c" style="animation-delay:2.1s">7E 86 DB CC B9 70 46 FC 2E 18 38 4E</text><text x="690" y="374" class="off">0054</text>
+  <rect x="668" y="116" width="480" height="44" fill="url(#bar)" style="animation:scan 6s linear infinite"/>
+</g>
+<text x="690" y="420" font-family="'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'Courier New',monospace" font-size="14" fill="#d4d4d8">✓ readable bytecode on disk: 0 bytes</text>
+<rect x=".5" y=".5" width="1199" height="479" rx="22" fill="none" stroke="url(#edge)"/>
+<g opacity=".08"><rect x="0" y="0" width="120" height="480" fill="#fff" transform="skewX(-20)" style="animation:shine 7s ease-in-out infinite"/></g>
+</svg>
