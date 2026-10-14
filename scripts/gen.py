@@ -451,9 +451,7 @@ if __name__ == "__main__":
     lab_card("shooter", "Shooter", "Rust", "#a1a1aa", "Игра-шутер на Rust", "RS")
     stack()
     tg = '<path d="M21.5 3.5 2.7 10.8c-1.3.5-1.3 1.2-.2 1.6l4.8 1.5 1.8 5.6c.2.6.1.9.8.9.5 0 .7-.2 1-.5l2.4-2.3 4.9 3.6c.9.5 1.5.2 1.8-.8l3.2-15.2c.3-1.3-.5-1.9-1.5-1.5zM8.9 13.6l9.6-6.1c.5-.3.9-.1.5.2l-8.1 7.4-.3 3.4z" transform="scale(1)"/>'
-    mail = '<path d="M2 5h20v14H2z" fill="none" stroke="#fff" stroke-width="2"/><path d="m2 6 10 7 10-7" fill="none" stroke="#fff" stroke-width="2"/>'
     web = '<circle cx="12" cy="12" r="10" fill="none" stroke="#fff" stroke-width="2"/><path d="M2 12h20M12 2c3 3 3 17 0 20M12 2c-3 3-3 17 0 20" fill="none" stroke="#fff" stroke-width="2"/>'
-    button("tg", "Telegram", "@Funnyqe", "#3f3f46", tg)
-    button("mail", "Email", "danilimatov4@gmail.com", "#3f3f46", mail)
+    button("tg", "Telegram", "@FxCodin", "#3f3f46", tg)
     button("web", "Сайт-визитка", "funny-iota-seven.vercel.app", VIOLET, web)
     footer()

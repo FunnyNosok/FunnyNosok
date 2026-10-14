@@ -4,7 +4,7 @@
 
 <br/>
 
-<a href="https://t.me/Funnyqe"><img src="assets/btn-tg.svg" width="32%" alt="Telegram @FxCodin" /></a> <a href="mailto:danilimatov4@gmail.com"><img src="assets/btn-mail.svg" width="32%" alt="Email" /></a> <a href=""><img src="assets/btn-web.svg" width="32%" alt="Сайт-визитка" /></a>
+<a href="https://t.me/FxCodin"><img src="assets/btn-tg.svg" width="49%" alt="Telegram @FxCodin" /></a> <a href=""><img src="assets/btn-web.svg" width="49%" alt="Сайт-визитка" /></a>
 
 <br/>
 
@@ -24,7 +24,7 @@
 <a href="https://onlytatoo.vercel.app"><img src="assets/site-onlytatoo.svg" width="49%" alt="Only Tattoo" /></a>
 <a href="https://hostel-ekb.vercel.app"><img src="assets/site-hostel.svg" width="49%" alt="Хостелы ЕКБ" /></a>
 <a href="https://hostel-sites-demo.vercel.app"><img src="assets/site-hosteldemo.svg" width="49%" alt="Hostel Concepts" /></a>
-<a href="https://t.me/Funnyqe"><img src="assets/site-cta.svg" width="49%" alt="Нужен сайт? Напиши в Telegram" /></a>
+<a href="https://t.me/FxCodin"><img src="assets/site-cta.svg" width="49%" alt="Нужен сайт? Напиши в Telegram" /></a>
 
 <br/><br/>
 
