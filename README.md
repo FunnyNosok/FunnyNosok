@@ -4,7 +4,7 @@
 
 <br/>
 
-<a href="https://t.me/Funnyqe"><img src="assets/btn-tg.svg" width="32%" alt="Telegram @Funnyqe" /></a> <a href="mailto:danilimatov4@gmail.com"><img src="assets/btn-mail.svg" width="32%" alt="Email" /></a> <a href="https://funny-iota-seven.vercel.app"><img src="assets/btn-web.svg" width="32%" alt="Сайт-визитка" /></a>
+<a href="https://t.me/Funnyqe"><img src="assets/btn-tg.svg" width="32%" alt="Telegram @FxCodin" /></a> <a href="mailto:danilimatov4@gmail.com"><img src="assets/btn-mail.svg" width="32%" alt="Email" /></a> <a href=""><img src="assets/btn-web.svg" width="32%" alt="Сайт-визитка" /></a>
 
 <br/>
 
